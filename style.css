@@ -9,7 +9,7 @@ body{
 .name-color{
        color:rgb(19, 88, 167);
 }
-section{
+.flexiable-container{
     display: flex;
     margin-bottom: 150px;
 }
